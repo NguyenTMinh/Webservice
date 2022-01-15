@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Webservice Test</string>
+    <string name="desc_del">delete</string>
+    <string name="desc_edit">edit</string>
+    <string name="title_them">Them thong tin</string>
+    <string name="title_sua">Sua thong tin</string>
+</resources>
